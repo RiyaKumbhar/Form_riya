@@ -40,7 +40,7 @@ const Home = () => {
                                 <td>{item.course}</td>
                                 <td>
                                     <Link to={`/update/${item.id}`}>
-                                        <button>Editeeeeeeeeeeeeeeeeee</button>
+                                        <button>Edit</button>
                                     </Link>
 
                                     &nbsp;
